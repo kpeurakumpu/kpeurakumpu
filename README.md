@@ -23,7 +23,7 @@ I'm continuously developing my technical and analytical skills, with a focus on 
 
 Here are some of the projects I'm working on:
 
-- **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus. 
+- **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus.
+- **[investor-behaviour-analytics]** - Quantitative research project examining investor behaviour profiles based on financial risk tolerance, investment experience, and financial knowledge using mixture modelling in Python. SQL, Excel, and Power BI are additionally used for data management, analysis, and visualization of research findings.
 
 *Always learning. Always improving.*
-
