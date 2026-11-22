@@ -9,7 +9,6 @@ I'm continuously developing my technical and analytical skills, with a focus on 
 ### 🎯 Areas of Interest
 - Financial Analysis & Financial Modelling
 - Investment Analysis & Financial Markets
-- Corporate Finance
 - Data Analytics & Business Intelligence
 
 - ### 🛠️ Skills & Technical Competencies
@@ -24,6 +23,6 @@ I'm continuously developing my technical and analytical skills, with a focus on 
 Here are some of the projects I'm working on:
 
 - **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus.
-- **[investor-behaviour-analytics]** - Quantitative research project examining investor behaviour profiles based on financial risk tolerance, investment experience, and financial knowledge using mixture modelling in Python. SQL, Excel, and Power BI are additionally used for data management, analysis, and visualization of research findings.
+- **[investor-behaviour-analysis]** - Data analysis project examining investor behaviour classes based on financial risk tolerance, investment experience, investment activity and financial knowledge using mixture modelling in Python. Microsoft Excel and Power BI are additionally used for data analysis and visualization of the findings.
 
 *Always learning. Always improving.*
