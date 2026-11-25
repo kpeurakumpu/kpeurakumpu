@@ -1,24 +1,38 @@
 # Hi, I'm Kaapo Peurakumpu 👋
 
-🎓 Finance Student | 📊 Financial Analysis | 💻 Data Analytics
+🎓 Finance Student | 📊 Financial and Business Analysis | 💻 Data Analysis
 
-I'm a Finance student interested in financial markets, corporate finance, investment analysis, and data-driven decision-making.
+I'm a finance student interested in financial markets, investment analysis, data analysis and data-driven decision-making.
 
-I'm continuously developing my technical and analytical skills, with a focus on using technology and data to solve financial and business problems.
+I'm continuously developing my financial, analytical and technical skills, with a particular focus on combining finance and data analysis to solve financial and business problems.
 
-### 🎯 Areas of Interest
-- Financial Analysis & Financial Modelling
-- Investment Analysis & Financial Markets
-- Data Analytics & Business Intelligence
+## 🛠️ Relevant Coursework & Technical Skills
 
-- ### 🛠️ Skills & Technical Competencies
+### Finance (Major)
+- Financial Statement Analysis and Valuation
+- Financial & Analytical Modelling in Accounting and Finance
+- Corporate Finance
+- Basics of Financial Risks & Financial Risk Management
+- Financial Instruments and Markets
+- Empirical Asset Pricing
+- Behavioral Accounting and Finance
 
-- **Finance & Valuation:** Financial Statement Analysis, Financial Modelling, Company Valuation, Corporate Finance, Investment Analysis
-- **Data Analysis & Visualization:** Microsoft Excel, Power BI, Data Visualization, Dashboard Development, Data Interpretation
-- **Programming & Data Tools:** Python, SQL, Data Manipulation, Data Analysis
-- **Business & Analytical Skills:** Business Analysis, Financial Research, Quantitative Analysis, Problem-Solving, Data-Driven Decision Making
+### Data Science (Minor, 65 ECTS)
+- Introduction to Python Programming & Programming II
+- Data Management Systems
+- Introduction to Statistics
+- Probabilistic Inference for Data Science I & II
+- Introduction to Algorithmic Data Analysis
+- Insights from Data
 
-### 📂 Featured Projects
+### Core Skills
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Data Analysis (Data Preparation, Data Manipulation, Statistical Analysis and Data Visualization)
+
+## 📂 Projects
 
 Here are some of the projects I'm working on:
 
