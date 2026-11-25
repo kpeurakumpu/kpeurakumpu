@@ -25,7 +25,7 @@ I'm continuously developing my financial, analytical and technical skills, with 
 - Introduction to Algorithmic Data Analysis
 - Insights from Data
 
-### Core Skills
+### Technical Skills
 - Python
 - SQL
 - Power BI
