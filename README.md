@@ -1,10 +1,10 @@
 # Hi, I'm Kaapo Peurakumpu 👋
 
-🎓 Finance Student | 📊 Financial and Business Analysis | 💻 Data Analysis
+🎓 Finance Student | 📊 Financial and Business Analysis | 💻 Data Analytics
 
-I'm a finance student interested in financial markets, investment analysis, data analysis and data-driven decision-making.
+I'm a finance student interested in financial markets, risk management, investment anaysis and data-driven decision-making.
 
-I'm continuously developing my financial, analytical and technical skills, with a particular focus on combining finance and data analysis to solve financial and business problems.
+I'm continuously developing my financial, analytical and technical skills, with a particular focus on combining finance and data analytics to solve financial and business problems.
 
 ## 🛠️ Relevant Coursework & Technical Skills
 
@@ -37,6 +37,6 @@ I'm continuously developing my financial, analytical and technical skills, with 
 Here are some of the projects I'm working on:
 
 - **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus.
-- **[investor-behaviour-data-analysis]** - Data analysis project examining investor behaviour classes based on financial risk tolerance, investment experience, investment activity and financial knowledge using mixture modelling in Python. Microsoft Excel and Power BI are additionally used for data analysis and visualization of the findings.
+- **[investor-behaviour-data-analysis]** - Investment behaviour analysis project examining investor behaviour classes based on financial risk tolerance, investment experience, investment activity and financial knowledge using mixture modelling in Python. Microsoft Excel and Power BI are additionally used for data analysis and visualization of the findings.
 
 *Always learning. Always improving.*
