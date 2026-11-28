@@ -36,7 +36,8 @@ I'm continuously developing my financial, analytical and technical skills, with 
 
 Here are some of the projects I'm working on:
 
-- **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus.
+- **[credit-risk-analysis]** - Credit risk analysis project using SQL Server and Power BI to explore loan and borrower characteristics, as well as loan default patterns and trends over time through interactive Power BI dashboards and data visualizations.
 - **[investor-behaviour-data-analysis]** - Investment behaviour analysis project examining investor behaviour classes based on financial risk tolerance, investment experience, investment activity and financial knowledge using mixture modelling in Python. Microsoft Excel and Power BI are additionally used for data analysis and visualization of the findings.
+- **[quantitative-data-analysis]** – Quantitative research project involving descriptive statistics, regression analysis and confirmatory factor analysis using Python and Mplus.
 
 *Always learning. Always improving.*
